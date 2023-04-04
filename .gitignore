@@ -1,4 +1,11 @@
+# R files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+.Rproj
+.Renviron
+.lintr
+packrat/lib*/
+
+**/data/**
